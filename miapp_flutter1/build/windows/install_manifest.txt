@@ -1,0 +1,15 @@
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/assets/carneSignUp.webp
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/assets/cowmap.png
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/assets/crudemeat.jpg
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/assets/Locations.png
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/assets/logo.png
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/assets/nodis.png
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

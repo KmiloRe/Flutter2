@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CEF3722E-18F1-3361-9CB4-0E6465DFB5AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6EBAD1E8-B337-3BAD-86D7-9FBA5AC3A5D7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

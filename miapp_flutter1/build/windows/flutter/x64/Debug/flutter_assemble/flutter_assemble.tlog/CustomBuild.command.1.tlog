@@ -1,0 +1,28 @@
+^C:\USERS\CAMILO\ONEDRIVE - UPB\U\SEMESTRE4\INGENIERIA DE SOFTWARE\FLUTTERWORK\FLUTTERAPP2\MIAPP_FLUTTER1\BUILD\WINDOWS\CMAKEFILES\622B1E5295EE287D0C72159503EAF29C\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter "PROJECT_DIR=C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1" FLUTTER_ROOT=C:\src\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1" "FLUTTER_TARGET=C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Camilo\OneDrive - UPB\U\Semestre4\Ingenieria de software\Flutterwork\flutterapp2\miapp_flutter1\.dart_tool\package_config.json" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMILO\ONEDRIVE - UPB\U\SEMESTRE4\INGENIERIA DE SOFTWARE\FLUTTERWORK\FLUTTERAPP2\MIAPP_FLUTTER1\BUILD\WINDOWS\CMAKEFILES\7E138BCBD86D091155CF286968D467EA\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CAMILO\ONEDRIVE - UPB\U\SEMESTRE4\INGENIERIA DE SOFTWARE\FLUTTERWORK\FLUTTERAPP2\MIAPP_FLUTTER1\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/windows" "-BC:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows" --check-stamp-file "C:/Users/Camilo/OneDrive - UPB/U/Semestre4/Ingenieria de software/Flutterwork/flutterapp2/miapp_flutter1/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
