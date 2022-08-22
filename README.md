@@ -1,3 +1,5 @@
+El proyecto aun esta algo crudo pero con un par de horas extras puede quedar mucho mejor 
+######Readme propio de flutter ########
 # miapp_flutter1
 
 A new Flutter project.
