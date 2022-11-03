@@ -28,3 +28,17 @@
 {"logTime": "0821/030554", "correlationVector":"zq70n0q+WORADkhD4Puwzg","action":"Normal GetUpdate request", "result":""}
 {"logTime": "0821/030554", "correlationVector":"zq70n0q+WORADkhD4Puwzg.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2", "server":"GENERAL0100000O"}}
 {"logTime": "0821/030554", "correlationVector":"zq70n0q+WORADkhD4Puwzg.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "1103/205916", "correlationVector":"B3188ivHLh1Q2NnyITVE6X.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1103/205916", "correlationVector":"ci3PApoSxmYgxtMas3ltIB.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100001X"}}
+{"logTime": "1103/205916", "correlationVector":"ci3PApoSxmYgxtMas3ltIB","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=ci3PApoSxmYgxtMas3ltIB}
+{"logTime": "1103/205916", "correlationVector":"ci3PApoSxmYgxtMas3ltIB.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=ci3PApoSxmYgxtMas3ltIB.0;server=GENERAL0100001X;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1103/205916", "correlationVector":"RJbvht5s6p/20PLC1MwiAh","action":"Normal GetUpdate request", "result":"", "context":cV=RJbvht5s6p/20PLC1MwiAh
+Refresh requested types: Encryption Keys}
+{"logTime": "1103/205916", "correlationVector":"RJbvht5s6p/20PLC1MwiAh.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2", "server":"GENERAL0100000G"}}
+{"logTime": "1103/205918", "correlationVector":"RJbvht5s6p/20PLC1MwiAh.2","action":"AAD.Mip.Unpack", "result":"Success", "context":MIP_CLOUD_COMMERCIAL:Success}
+{"logTime": "1103/205918", "correlationVector":"RJbvht5s6p/20PLC1MwiAh.3","action":"AAD.GetKeyResponse", "result":"Success", "context":Keys=1.LastKeyStatus=Normal. 2022-08-17 15:36:58 -05.State=None. Tags: Current_encryption_keys_tag = b++/vSLvv711Xe+/ve+/vW7FnO+/ve+/ve+/vTJAyKcHSBLvv70677+977+926oz77+9Ve+/ve+/vQ==, Updated_current_encryption_keys_tag = Empty}
+{"logTime": "1103/205918", "correlationVector":"RJbvht5s6p/20PLC1MwiAh.4","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=RJbvht5s6p/20PLC1MwiAh.0;server=GENERAL0100000G;cloudType=Multitenant;environment=Prod_EastUS2}
+{"logTime": "1103/205918", "correlationVector":"sEYEYA/+Lt/18VC58UMszK","action":"Normal GetUpdate request", "result":"", "context":cV=sEYEYA/+Lt/18VC58UMszK
+Refresh requested types: Encryption Keys}
+{"logTime": "1103/205918", "correlationVector":"sEYEYA/+Lt/18VC58UMszK.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2", "server":"GENERAL01000027"}}
+{"logTime": "1103/205918", "correlationVector":"sEYEYA/+Lt/18VC58UMszK.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=sEYEYA/+Lt/18VC58UMszK.0;server=GENERAL01000027;cloudType=Multitenant;environment=Prod_EastUS2}
